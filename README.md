@@ -1,4 +1,5 @@
 # PrimerParcial
 <h3>Foto del proyecto:</h3>
-![s1](https://user-images.githubusercontent.com/51014165/112711200-c7dde480-8e83-11eb-96ad-a1ff5285aeeb.JPG)
+![s1](https://user-images.githubusercontent.com/51014165/112711256-3753d400-8e84-11eb-8a21-0f13635e5a5d.JPG)
+
 
