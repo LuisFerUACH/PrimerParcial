@@ -12,7 +12,7 @@ const mesa1 = () => {
 
   if (!ban[0]) {
     tiempos[0] = 0;
-    document.getElementById("total1").innerHTML ="";
+    document.getElementById("total1").innerHTML = "";
     document.getElementById("final1").innerHTML = "";
     let hour = new Date().getHours();
     let min = new Date().getMinutes();
@@ -48,7 +48,7 @@ const mesa2 = () => {
 
   if (!ban[1]) {
     tiempos[1] = 0;
-    document.getElementById("total2").innerHTML ="";
+    document.getElementById("total2").innerHTML = "";
     document.getElementById("final2").innerHTML = "";
     let hour = new Date().getHours();
     let min = new Date().getMinutes();
@@ -84,7 +84,7 @@ const mesa3 = () => {
 
   if (!ban[2]) {
     tiempos[2] = 0;
-    document.getElementById("total3").innerHTML ="";
+    document.getElementById("total3").innerHTML = "";
     document.getElementById("final3").innerHTML = "";
     let hour = new Date().getHours();
     let min = new Date().getMinutes();
@@ -120,7 +120,7 @@ const mesa4 = () => {
 
   if (!ban[3]) {
     tiempos[3] = 0;
-    document.getElementById("total4").innerHTML ="";
+    document.getElementById("total4").innerHTML = "";
     document.getElementById("final4").innerHTML = "";
     let hour = new Date().getHours();
     let min = new Date().getMinutes();
@@ -156,7 +156,7 @@ const mesa5 = () => {
 
   if (!ban[4]) {
     tiempos[4] = 0;
-    document.getElementById("total5").innerHTML ="";
+    document.getElementById("total5").innerHTML = "";
     document.getElementById("final5").innerHTML = "";
     let hour = new Date().getHours();
     let min = new Date().getMinutes();
@@ -192,7 +192,7 @@ const mesa6 = () => {
 
   if (!ban[5]) {
     tiempos[5] = 0;
-    document.getElementById("total5").innerHTML ="";
+    document.getElementById("total5").innerHTML = "";
     document.getElementById("final5").innerHTML = "";
     let hour = new Date().getHours();
     let min = new Date().getMinutes();
